@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/unicode/unicode.cpp \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/unicode/unicode.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/unicode/../uintn.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/unicode/../assert.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/unicode/../config.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/unicode/../error.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/unicode/../stack_trace.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/unicode/../algs.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/unicode/../platform.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/unicode/../windows_magic.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/unicode/../noncopyable.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/unicode/../enable_if.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/unicode/../numeric_constants.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/unicode/../memory_manager_stateless/memory_manager_stateless_kernel_1.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/unicode/../memory_manager_stateless/memory_manager_stateless_kernel_abstract.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/unicode/unicode_abstract.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/unicode/../string.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/unicode/../string/string.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/unicode/../string/string_abstract.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/unicode/../string/../algs.h

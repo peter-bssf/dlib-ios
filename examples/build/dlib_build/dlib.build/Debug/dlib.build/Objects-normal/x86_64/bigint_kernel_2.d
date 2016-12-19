@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/bigint_kernel_2.cpp \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/bigint_kernel_2.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/bigint_kernel_abstract.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../algs.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../platform.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../windows_magic.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../assert.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../config.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../error.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../stack_trace.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../noncopyable.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../enable_if.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../uintn.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../numeric_constants.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../memory_manager_stateless/memory_manager_stateless_kernel_1.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../memory_manager_stateless/memory_manager_stateless_kernel_abstract.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../serialize.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../interfaces/enumerable.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../interfaces/map_pair.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../unicode.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../unicode/unicode.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../unicode/../algs.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../unicode/unicode_abstract.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../byte_orderer.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../byte_orderer/byte_orderer_kernel_1.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../byte_orderer/byte_orderer_kernel_abstract.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../byte_orderer/../algs.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../float_details.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../smart_pointers/shared_ptr.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../smart_pointers/../algs.h \
+  /Users/pengliang/workspace/github/face-detect/dlib-19.2/dlib/bigint/../smart_pointers/shared_ptr_abstract.h
